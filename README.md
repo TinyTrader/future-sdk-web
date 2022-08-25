@@ -8,8 +8,21 @@
    + Production
    provide by yourself. for example
 ## Integration
-   For example, you can open this url in your app with iframe:
-   http://x.chimchim.top/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata
+   
+   
+       <iframe
+           title="SDK"
+           src='http://x.chimchim.top/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata'
+           frameBorder="0"
+           height="100%"
+           width="100%"
+           id="SDK"
+           allowfullscreen="true"
+           webkitallowfullscreen="true"
+           mozallowfullscreen="true"
+       />
+   
+  
    
    |Parameter|Type|Optional|Default|Notes|
    |---|---:|---:|---:|---:|
