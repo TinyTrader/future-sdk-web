@@ -9,14 +9,14 @@
    provide by yourself. for example
 ## Integration
    For example, you can open this url in your app with iframe:
-   http://x.chimchim.top/perpetual?lang=en-US&5fu3=ty9f&vicolor=623DA2&theme=dark&timezone=Asia/Kolkata
+   http://x.chimchim.top/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata
    
    |Parameter|Type|Optional|Default|Notes|
    |---|---:|---:|---:|---:|
    |5fu3|string|Require||Channel ID(created by TinyTrader)|
    |sfg6|string|Optional||jwttoken|
    |lang|string|Optional|'en-US'|Language (Chinese zh-CN, Korean ko-KR, English: en-US. Default is en-US)|
-   |theme|string|Optional|'dark'|Theme color (dark: ‘dark’ mode ,light: ‘light’ mode. Default is dark)|
+   |theme|string|Optional|'light'|Theme color (dark: ‘dark’ mode ,light: ‘light’ mode. Default is light)|
    |vicolor|string|Require||VI color (if the VI color is #666666, you only need to pass the string 666666)|
    |timezone|string|Optional|Asia/Shanghai|(Asia/Kolkata, America/New_York, etc,defatult is Asia/Shanghai)|
    
