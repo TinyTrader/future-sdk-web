@@ -14,7 +14,7 @@
    |Parameter|Type|Optional|Default|Notes|
    |---|---:|---:|---:|---:|
    |5fu3|string|Require||Channel ID(created by TinyTrader)|
-   |sfg6|string|Optional|''|jwttoken|
+   |sfg6|string|Optional||jwttoken|
    |lang|string|Optional|'en-US'|Language (Chinese zh-CN, Korean ko-KR, English: en-US. Default is en-US)|
    |theme|string|Optional|'dark'|Theme color (dark: ‘dark’ mode ,light: ‘light’ mode. Default is dark)|
    |vicolor|string|Require||VI color (if the VI color is #666666, you only need to pass the string 666666)|
