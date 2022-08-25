@@ -3,10 +3,10 @@
 ## Ways for integration
    webview or iframe
 ## Environment
-   + Test
+   + Test or development:
    http://x.chimchim.top/
    + Production
-   http://x.chimchim.top/
+   provide by yourself. for example
 ## Integration
    For example, you can open this url in your app with iframe:
    http://x.chimchim.top/perpetual?lang=en-US&5fu3=ty9f&vicolor=623DA2&theme=dark&timezone=Asia/Kolkata
