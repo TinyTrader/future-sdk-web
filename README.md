@@ -3,12 +3,12 @@
 ## Ways for integration
    webview or iframe
 ## Environment
-   + Test or development:
-   http://x.chimchim.top/
-   + Production
-   provide by yourself. for example
+   #### Test or development:
+    http://x.chimchim.top/
+   #### Production
+   provides by yourself. 
 ## Integration
-   
+   integration by iframe:
    
        <iframe
            title="SDK"
