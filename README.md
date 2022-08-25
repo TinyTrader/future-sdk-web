@@ -9,7 +9,7 @@
    http://x.chimchim.top/
 ## Integration
    For example, you can open this url in your app with iframe:
-   https://www.futrue.tinytrader.com/perpetual?lang=en-US&5fu3=ty9f&vicolor=623DA2&theme=dark&sfg6=xx&timezone=Asia/Kolkata
+   http://x.chimchim.top/perpetual?lang=en-US&5fu3=ty9f&vicolor=623DA2&theme=dark&sfg6=xx&timezone=Asia/Kolkata
    
    |Parameter|Type|Optional|Default|Notes|
    |---|---:|---:|---:|---:|
