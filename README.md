@@ -30,8 +30,8 @@
    |---|---:|---:|---:|---:|
    |5fu3|string|Require||Channel ID(created by TinyTrader)|
    |sfg6|string|Optional||jwttoken|
-   |lang|string|Optional|'en-US'|Language (Chinese zh-CN, Korean ko-KR, English: en-US. Default is en-US)|
-   |theme|string|Optional|'light'|Theme color (dark: ‘dark’ mode ,light: ‘light’ mode. Default is light)|
+   |lang|string|Optional|'en-US'|Language,Possible Values: zh-CN, ko-KR, en-US|
+   |theme|string|Optional|'light'|Possible Values: dark,light|
    |vicolor|string|Require||VI color (if the VI color is #666666, you only need to pass the string 666666)|
    |timezone|string|Optional|Asia/Shanghai|Possible Values: 'America/New_York' , 'America/Los_Angeles' , 'America/Chicago' , 'America/Phoenix' , 'America/Toronto', 'America/Vancouver' , 'America/Argentina/Buenos_Aires' , 'America/El_Salvador' , 'America/Sao_Paulo' , 'America/Bogota' , 'America/Caracas' , 'Europe/Moscow' , 'Europe/Athens' , 'Europe/Belgrade' , 'Europe/Berlin' , 'Europe/London' , 'Europe/Luxembourg' , 'Europe/Madrid' , 'Europe/Paris' , 'Europe/Rome' , 'Europe/Warsaw' , 'Europe/Istanbul' , 'Europe/Zurich' , 'Australia/Sydney' , 'Australia/Brisbane' , 'Australia/Adelaide' , 'Australia/ACT' , 'Asia/Almaty' , 'Asia/Ashkhabad' , 'Asia/Tokyo' , 'Asia/Taipei' , 'Asia/Singapore' , 'Asia/Shanghai' , 'Asia/Seoul' , 'Asia/Tehran' , 'Asia/Dubai' , 'Asia/Kolkata' , 'Asia/Hong_Kong' , 'Asia/Bangkok' , 'Asia/Chongqing' , 'Asia/Jerusalem' , 'Asia/Kuwait' , 'Asia/Muscat' , 'Asia/Qatar' , 'Asia/Riyadh' , 'Pacific/Auckland' , 'Pacific/Chatham' , 'Pacific/Fakaofo' , 'Pacific/Honolulu' , 'America/Mexico_City' , 'Africa/Cairo' , 'Africa/Johannesburg' , 'Asia/Kathmandu' , 'US/Mountain'|
    
