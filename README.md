@@ -4,9 +4,11 @@
    webview or iframe
 ## Environment(Domain)
    #### Test/Development:
-    http://x.chimchim.top/
+       Domain: http://x.chimchim.top
+       URL: http://x.chimchim.top/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata
    #### Production:
-   The domain should be provided by yourself. For example,if the domain is 'https://x.y.com', then the URL will be like : 'https://x.y.com/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata'
+       Domain: https://yourdomain
+       URL: https://yourdomain/perpetual?lang=en-US&5fu3=yourID&vicolor=yourcolor&theme=light&timezone=yourtimezone
 ## Integration
    integration by iframe:
    
