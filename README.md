@@ -5,10 +5,10 @@
 ## Environment(Domain)
    #### Test/Development:
        Domain: http://x.chimchim.top
-       URL: http://x.chimchim.top/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata
+       URL: http://x.chimchim.top/perpetual?5fu3=xxxx&vicolor=xxxx
    #### Production:
-       Domain: https://yourdomain
-       URL: https://yourdomain/perpetual?lang=en-US&5fu3=yourID&vicolor=yourcolor&theme=light&timezone=yourtimezone
+       Domain: https://yourDomain
+       URL: https://yourDomain/perpetual?5fu3=xxxx&vicolor=xxxx
 ## Integration
    integration by iframe:
    
