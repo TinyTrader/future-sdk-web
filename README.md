@@ -3,7 +3,7 @@
 ## Ways for integration
    webview or iframe
 ## Environment
-   #### Test or development:
+   #### Test/Development:
     http://x.chimchim.top/
    #### Production
    The domain should provided by yourself. For example,if the domain is 'https://x.y.com', then the URL will be like : 'https://x.y.com/perpetual?lang=en-US&5fu3=xxOi&vicolor=623DA2&theme=light&timezone=Asia/Kolkata'
