@@ -28,7 +28,7 @@
    
    |Parameter|Type|Optional|Default|Notes|
    |---|---:|---:|---:|---:|
-   |5fu3|string|Require||Channel ID(Provided by TinyTrader)|
+   |5fu3|string|Require||Channel ID(Provides by TinyTrader)|
    |sfg6|string|Optional||jwttoken|
    |lang|string|Optional|'en-US'|Language,Possible Values: zh-CN, ko-KR, en-US|
    |theme|string|Optional|'light'|Possible Values: dark,light|
